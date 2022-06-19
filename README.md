@@ -1,2 +1,2 @@
-# REALFOXINTHFOREST
+# FOXINTHFOREST
 깊은 숲 속 숨겨진 저주받은 보물을 찾아 떠난 플레이어가 수많은 시련과 위험을 겪고 목표를 이루는 어드벤처, 탐험 게임.
